@@ -9,7 +9,7 @@ Este repositório contém dois scripts Python, `encrypter.py` e `decrypter.py`, 
 - A biblioteca `cryptography` é mais robusta e amplamente suportada.
 - Utiliza AES no modo CTR (Counter) para criptografia e descriptografia.
 
-### 2. Obfuscação da chave de criptografia
+### 2. Ofuscação da chave de criptografia
 
 - A chave é codificada e decodificada com `base64`, dificultando a identificação direta no código.
 
